@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027781774743",
+    "firebase_url": "https://neareststation-45470.firebaseio.com",
+    "project_id": "neareststation-45470",
+    "storage_bucket": "neareststation-45470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027781774743:android:b1dfadfeafd6c113",
+        "android_client_info": {
+          "package_name": "com.example.buddhima.neareststation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027781774743-h5m4s0226r89ivstg4qmsikh0plnfbip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddhima.neareststation",
+            "certificate_hash": "59bd8e3183f761a92afdf77da02eb53b6d522baa"
+          }
+        },
+        {
+          "client_id": "1027781774743-dugsp7dvg671qorebsdhrvh0oe8i2j9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7nYhOBq7kCR9Z5EweYsPCkoZrv46vbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027781774743-dugsp7dvg671qorebsdhrvh0oe8i2j9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
